@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+.bg-container {
+    margin: 2rem;
+    position: relative;
+}
+
+.bg-starry {
+    width: 100%;
+}
